@@ -4,7 +4,7 @@
 My name is Jonathan Sanchez and I am a student at Cal State Fullerton and my major is Electrical Engineering
 
 
-##Computer Science Projects
+## Computer Science Projects
 
 
 My GitHub page is https://github.com/jonathanjsanchez
