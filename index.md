@@ -7,7 +7,7 @@ My name is Jonathan Sanchez and I am a student at Cal State Fullerton and my maj
 ## Computer Science Projects
 
 
-My GitHub page is https://github.com/jonathanjsanchez
+My GitHub page is http://github.com/jonathanjsanchez
 
 
 ## Favorite CPSC 120L Labs
