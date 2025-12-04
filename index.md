@@ -13,12 +13,16 @@ My GitHub page is https://github.com/jonathanjsanchez
 ## Favorite CPSC 120L Labs
 
 
-Lab 2
-Lab 2 was one of my favorite and first introducing labs I got to work on with my partner which got me to realize how motivating and focusing this class was about. Coming down to cloning a git repository from GitHub was so new and engaging to me that I was so intrigued but frustrated but thats what a lab should make you feel in order to learn what the material is.
+* Lab 2
 
 
-Lab 10 Part 1
-Lab 10 Part 1 was very intersting and hard for me and my partner but I want to say it is one of my favorite labs beacuse we had to deal with coding that uses 2D vectors which I never heard of throughout the entire semester that I've been in the class so me and my partner really struggled with how we had to use unit tests to help us develop our project in the lab.
+    Lab 2 was one of my favorite and first introducing labs I got to work on with my partner which got me to realize how motivating and focusing this class was about. Coming down to cloning a git repository from GitHub was so new and engaging to me that I was so intrigued but frustrated but thats what a lab should make you feel in order to learn what the material is.
+
+
+* Lab 10 Part 1
+
+
+    Lab 10 Part 1 was very intersting and hard for me and my partner but I want to say it is one of my favorite labs beacuse we had to deal with coding that uses 2D vectors which I never heard of throughout the entire semester that I've been in the class so me and my partner really struggled with how we had to use unit tests to help us develop our project in the lab.
 
 
 * Lab 11 Part 1
